@@ -6,6 +6,6 @@
   * [文章12](Chapter1/wen-zhang-12.md)
 * [第二章](./Chapter2/README.md)
   * [文章21](./Chapter2/wenzhang2.md)
-* [第三章](./Chapter2/README.md)
+* [第三章](./Chapter3/README.md)
   * [文章31](./Chapter2/wenzhang3.md)
 
