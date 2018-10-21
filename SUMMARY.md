@@ -1,11 +1,9 @@
 # Summary
 
 * [介绍](README.md)
-* [第一章](./Chapter1/README.md)
-  * [文章11](./Chapter1/wenzhang1.md)
-  * [文章12](Chapter1/wen-zhang-12.md)
-* [第二章](./Chapter2/README.md)
-  * [文章21](./Chapter2/wenzhang2.md)
-* [第三章](./Chapter3/README.md)
-  * [文章31](./Chapter2/wenzhang3.md)
+* [Markdown知识](./Markdown/README.md)
+  * [语法练习](./Markdown/GrammarDemo.md)
+* [Git知识](./Git/README.md)
+  * [常用命令](./Git/GeneralCmd.md)
+
 
