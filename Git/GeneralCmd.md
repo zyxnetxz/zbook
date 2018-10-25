@@ -1,5 +1,5 @@
 ###Git原理图
-![GitBook Picture](../static/gitimg.png "GitBook Picture Snapshot")
+![Git Picture](../static/gitimg.png "GitBook Picture Snapshot")
 
 ###几个专用名词
 ```
@@ -12,6 +12,8 @@ Remote：远程仓库
 ###参考资料
 [廖雪峰的Git教程]( https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000 
 )
+![GitCMD](../static/gitcmd.jpg "Git CMD")
+
 ###常用命令
 一、新建代码库
 ```
